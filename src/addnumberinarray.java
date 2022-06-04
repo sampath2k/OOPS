@@ -6,6 +6,7 @@ public class addnumberinarray {
 		int arr[]= {32,234,321,24,45,56,87};//7
 		int num=298;
 		int i=0;
+		
 		//arr[arr.length]=num;
 		while(i<arr.length) {
 			if(i==arr.length-1) {
